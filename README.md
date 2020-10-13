@@ -1,5 +1,7 @@
 # myamplifyproject
 
+https://aws.amazon.com/jp/blogs/startup/event-report-amplify-handson/
+
 ## Project setup
 ```
 npm install
